@@ -1,8 +1,6 @@
-# Runner
+# [Runner](https://github.com/Jasonh90/Runner_iOS)
 
 Get hired any day, any time.
-
-# [Link to iOS Git Repo](https://github.com/Jasonh90/Runner_iOS)
 
 # Description of Runner
 
